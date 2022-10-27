@@ -1,14 +1,14 @@
 # Site Info
-title:              "The Plain"
-description:        "A minimalist Jekyll theme"
-author_name:        "Heiswayi Nrird" # change this to your name
-logo_url:           https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+title:              "Flower Sea"
+description:        "Flower"
+author_name:        "Flower Sea" # change this to your name
+logo_url:           https://avatars.githubusercontent.com/u/71331551?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://heiswayi.github.io # main url
-baseurl:            /the-plain
+url:                https://flowersea0208.github.io # main url
+baseurl:            
 permalink:          /:title # Post permalink
-timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
 social_share_previews: true
 
@@ -25,8 +25,6 @@ include:            [ "robots.txt" ]
 exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
 plugins:
   - jekyll-sitemap
-
-
 
 defaults:
   -
