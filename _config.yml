@@ -8,7 +8,7 @@ logo_url:           https://avatars.githubusercontent.com/u/71331551?v=4 # Get i
 url:                https://flowersea0208.github.io # main url
 baseurl:            
 permalink:          /:title # Post permalink
-timezone:           Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
 social_share_previews: true
 
