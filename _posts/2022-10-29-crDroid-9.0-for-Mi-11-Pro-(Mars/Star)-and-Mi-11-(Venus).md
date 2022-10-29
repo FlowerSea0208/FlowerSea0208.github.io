@@ -54,4 +54,6 @@ updated: 2022-10-29 23:43
 
  * [crDroid-venus](https://crdroid.net/venus/9)
 
- * [MindTheGapps](https://androidfilehost.com/?fid=14871746926876840643)
+ * [dtbo-mars](https://sourceforge.net/projects/crdroid/files/mars/9.x/kit/)
+
+ * [dtbo-mars](https://sourceforge.net/projects/crdroid/files/venus/9.x/kit/)
