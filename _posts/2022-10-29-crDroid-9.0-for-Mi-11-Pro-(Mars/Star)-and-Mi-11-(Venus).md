@@ -56,4 +56,4 @@ updated: 2022-10-29 23:43
 
  * [dtbo-mars](https://sourceforge.net/projects/crdroid/files/mars/9.x/kit/)
 
- * [dtbo-mars](https://sourceforge.net/projects/crdroid/files/venus/9.x/kit/)
+ * [dtbo-venus](https://sourceforge.net/projects/crdroid/files/venus/9.x/kit/)
