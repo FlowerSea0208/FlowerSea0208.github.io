@@ -13,15 +13,10 @@ updated: 2022-10-30 23:43
 **No need to flash the firmware separately, it is built-in**
 
  * Enter fastboot
- * Flash boot.img
+ * Flash recovery.img
  * ### Code:
  * ```
-   fastboot flash boot_ab boot.img
-   ```
- * Flash dtbo.img
- * ### Code:
- * ```
-   fastboot flash dtbo_ab dtbo.img
+   fastboot flash boot_ab recovery.img
    ```
  * Boot to recovery (can do from bootloader or with buttons from power off state)
  * Now in recovery go to factory reset and confirm the reset
