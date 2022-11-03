@@ -34,7 +34,7 @@ updated: 2022-10-30 23:43
 **Via recovery:**
  * Boot to recovery
  * Choose apply update and Apply from ADB
- * Now install crDroid zip via sideload and reboot 
+ * Now install Elixir zip via sideload and reboot 
  * ### Code:
  * ```
    adb sideload Elixir.zip
