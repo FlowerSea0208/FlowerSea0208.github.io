@@ -1,6 +1,6 @@
 ---
 title: Evolution X 7.2 for Mi 11 Pro (Mars/Star)
-updated: 2022-10-30 23:43
+updated: 2022-11-02 12:43
 ---
 
 ![Evolution X](https://i.imgur.com/IvlZLyc.png)
