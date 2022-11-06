@@ -8,7 +8,7 @@ updated: 2022-10-30 23:43
 **Project Elixir is another aftermarket AOSP ROM which basically offers minimal UI enhancement & close to Stock Android ROM with great performance, security and stability. Most of the OEMs' these days will provide slow and untimely updates, but we don't do that here. We closely follow Google to bring the latest updates to our users, and even prolong support for devices that have been declared obsolete by OEMs. Our ROMs' source code is open-source, secure, stable, and outstanding. Your experience while using Project Elixir will be butter smooth without compromising the quality of the Android experience. In short, it's perfectly balanced between Great Performance, Security, stability, minimal UI & awesome features including pixel goodies So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. Download and enjoy Project Elixir on your respective devices!**
 
 
-## First time installation:
+# First time installation:
 
 **No need to flash the firmware separately, it is built-in**
 
@@ -47,15 +47,17 @@ updated: 2022-10-30 23:43
  * Choose install and let it finish
  * If you have Magisk installed, don't click reboot when prompted and go to Magisk and choose install to inactive slot Reboot
 
-**What's not working:**
+# What's not working:
  * You tell me
 
-**Device Changelog:**
+# Device Changelog:
  * [Mars](https://raw.githubusercontent.com/FlowerSea0208/official_devices-Elixir/A13/changelogs/mars/ProjectElixir_3.2_mars-13.0-20221029-1934-BETA-OFFICIAL.zip.txt)
 
  * [Venus](https://raw.githubusercontent.com/FlowerSea0208/official_devices-Elixir/aa36cf5f6b81414fba7706b39a68c7d54cb31f71/changelogs/venus/FlowerSea0208/offiProjectElixir_3.2_venus-13.0-20221029-1934-BETA-OFFICIAL.zip.txt)
 
-**Downloads:**
+# Downloads:
+## Mars/Star
  * [Elixir-Mars](https://dump.projectelixiros.com/0:/thirteen/mars/ProjectElixir_3.2_mars-13.0-20221029-1934-BETA-OFFICIAL.zip)
 
+## Venus
  * [Elixir-Venus](https://dump.projectelixiros.com/0:/thirteen/venus/ProjectElixir_3.2_venus-13.0-20221029-1715-BETA-OFFICIAL.zip)
