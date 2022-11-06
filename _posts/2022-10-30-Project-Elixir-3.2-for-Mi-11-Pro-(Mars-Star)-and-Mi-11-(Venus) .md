@@ -47,17 +47,17 @@ updated: 2022-10-30 23:43
  * Choose install and let it finish
  * If you have Magisk installed, don't click reboot when prompted and go to Magisk and choose install to inactive slot Reboot
 
-# What's not working:
+## What's not working:
  * You tell me
 
-# Device Changelog:
+## Device Changelog:
  * [Mars](https://raw.githubusercontent.com/FlowerSea0208/official_devices-Elixir/A13/changelogs/mars/ProjectElixir_3.2_mars-13.0-20221029-1934-BETA-OFFICIAL.zip.txt)
 
  * [Venus](https://raw.githubusercontent.com/FlowerSea0208/official_devices-Elixir/aa36cf5f6b81414fba7706b39a68c7d54cb31f71/changelogs/venus/FlowerSea0208/offiProjectElixir_3.2_venus-13.0-20221029-1934-BETA-OFFICIAL.zip.txt)
 
-# Downloads:
-## Mars/Star
+## Downloads:
+### Mars/Star
  * [Elixir-Mars](https://dump.projectelixiros.com/0:/thirteen/mars/ProjectElixir_3.2_mars-13.0-20221029-1934-BETA-OFFICIAL.zip)
 
-## Venus
+### Venus
  * [Elixir-Venus](https://dump.projectelixiros.com/0:/thirteen/venus/ProjectElixir_3.2_venus-13.0-20221029-1715-BETA-OFFICIAL.zip)
