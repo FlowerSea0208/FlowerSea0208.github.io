@@ -14,7 +14,7 @@ updated: 2022-11-02 12:43
 **No need to flash the firmware separately, it is built-in**
 
  * Enter fastboot
- * Flash boot.img
+ * Flash boot.img(recovery)
  * ### Code:
  * ```
    fastboot flash boot_ab boot.img
