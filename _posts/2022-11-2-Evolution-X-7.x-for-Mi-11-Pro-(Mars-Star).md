@@ -1,5 +1,5 @@
 ---
-title: Evolution X 7.2 for Mi 11 Pro (Mars/Star)
+title: Evolution X 7.x for Mi 11 Pro (Mars/Star)
 updated: 2022-11-02 12:43
 ---
 
@@ -61,5 +61,5 @@ updated: 2022-11-02 12:43
 
  **Downloads:**
  * [ROM](https://evolution-x.org/device/mars)
- * [boot](https://sourceforge.net/projects/evolution-x/files/mars/recovery/boot.img/download)
+ * [boot-recovery](https://sourceforge.net/projects/evolution-x/files/mars/recovery/boot.img/download)
  * [dtbo](https://sourceforge.net/projects/evolution-x/files/mars/kit/dtbo.img/download)
