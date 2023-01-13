@@ -3,7 +3,7 @@ title: Project Elixir 3.x for Mi 11 Pro (Mars/Star) and Mi 11 (Venus)
 updated: 2022-10-30 23:43
 ---
 
-![Elixir](https://s2.loli.net/2022/11/28/QoCrcBRPidvSuXp.jpg)
+![Elixir](https://i.imgur.com/Uppw05s.png)
 
 **Project Elixir is another aftermarket AOSP ROM which basically offers minimal UI enhancement & close to Stock Android ROM with great performance, security and stability. Most of the OEMs' these days will provide slow and untimely updates, but we don't do that here. We closely follow Google to bring the latest updates to our users, and even prolong support for devices that have been declared obsolete by OEMs. Our ROMs' source code is open-source, secure, stable, and outstanding. Your experience while using Project Elixir will be butter smooth without compromising the quality of the Android experience. In short, it's perfectly balanced between Great Performance, Security, stability, minimal UI & awesome features including pixel goodies So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. Download and enjoy Project Elixir on your respective devices!**
 
