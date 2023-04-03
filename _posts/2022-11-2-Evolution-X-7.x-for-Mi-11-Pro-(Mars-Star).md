@@ -19,11 +19,6 @@ updated: 2022-11-02 12:43
  * ```
    fastboot flash boot_ab boot.img
    ```
- * Flash dtbo.img
- * ### Code:
- * ```
-   fastboot flash dtbo_ab dtbo.img
-   ```
  * Boot to recovery (can do from bootloader or with buttons from power off state)
  * Now in recovery go to factory reset and confirm the reset
  * Reboot to recovery
@@ -56,10 +51,6 @@ updated: 2022-11-02 12:43
 **What's not working:**
  * You tell me
 
-**Device Changelog:**
- * [Mars](https://raw.githubusercontent.com/Evolution-X-Devices/official_devices/master/changelogs/mars/evolution_mars-ota-td1a.221105.001-11261034-unsigned.zip.txt)
-
  **Downloads:**
  * [ROM](https://evolution-x.org/device/mars)
- * [boot-recovery](https://sourceforge.net/projects/evolution-x/files/mars/recovery/boot.img/download)
- * [dtbo](https://sourceforge.net/projects/evolution-x/files/mars/kit/dtbo.img/download)
+ * [boot-recovery](https://sourceforge.net/projects/evolution-x/files/mars/recovery)
