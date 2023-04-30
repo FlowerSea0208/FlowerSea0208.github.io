@@ -50,15 +50,10 @@ updated: 2022-10-30 23:43
 ### What's not working:
  * You tell me
 
-### Device Changelog:
- * [Mars](https://raw.githubusercontent.com/FlowerSea0208/official_devices-Elixir/A13/changelogs/mars/ProjectElixir_3.7_mars-13.0-20230426-1847-OFFICIAL.zip.txt)
-
- * [Venus](https://raw.githubusercontent.com/FlowerSea0208/official_devices-Elixir/A13/changelogs/changelogs/venus/ProjectElixir_3.7_venus-13.0-20230426-1719-OFFICIAL.zip.txt)
-
 ## Downloads :
 
-**mars/Star**
+**Mi 11 Pro (mars/star)**
  * [Elixir-Mars](https://projectelixiros.com/device/mars)
 
-**Venus**
+**Mi 11 (venus)**
  * [Elixir-Venus](https://projectelixiros.com/device/venus) 
