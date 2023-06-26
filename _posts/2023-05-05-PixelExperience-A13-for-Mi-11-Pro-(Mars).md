@@ -1,5 +1,5 @@
 ---
-title: PixelExperience for Mi 11 Pro (Mars/Star)
+title: PixelExperience A13 for Mi 11 Pro (Mars)
 updated: 2022-05-05 09:32
 ---
 
