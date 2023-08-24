@@ -16,6 +16,7 @@ Join us and breathe new life in your device, be it old or new.
 **If you don't know LineageOS and would like to read about it before installing it you can take a look at the [official Website](https://lineageos.org/).**
 
 ## Features
+
 ### Individuality
 ```
 Customization is paramount to productivity.
