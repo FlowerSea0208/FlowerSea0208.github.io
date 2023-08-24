@@ -8,28 +8,35 @@ updated: 2022-10-29 23:43
 # LineageOS 20
 
 ## Introduction
-**LineageOS, an open-source Android distribution, is available for several devices,
+```
+LineageOS, an open-source Android distribution, is available for several devices,
 with more being continuously added thanks to the biggest, yet ever growing, Android open-source community.
-Join us and breathe new life in your device, be it old or new.**
-
-***If you don't know LineageOS and would like to read about it before installing it you can take a look at the [official Website](https://lineageos.org/).***
+Join us and breathe new life in your device, be it old or new.
+```
+**If you don't know LineageOS and would like to read about it before installing it you can take a look at the [official Website](https://lineageos.org/).**
 
 ## Features
 ### Individuality
-**Customization is paramount to productivity.
+```
+Customization is paramount to productivity.
 That’s why LineageOS promises to push for user personalization and preference.
-Everyone is unique and your device should be too.**
+Everyone is unique and your device should be too.
+```
 
 ### Security
-**Your data, your rules. With powerful tools such as Privacy Guard, you are in control of what your apps can do whenever you want.
+```
+Your data, your rules. With powerful tools such as Privacy Guard, you are in control of what your apps can do whenever you want.
 Trust will help you understand the security of your device and warn you about possible threats.
 We take security very seriously: that’s why we deliver security updates every month to all our supported devices.
-And to make your device more secure, lock everything behind an enhanced lock screen.**
+And to make your device more secure, lock everything behind an enhanced lock screen.
+```
 
 ### Longevity
-**LineageOS extends the functionality and lifespan of mobile devices from more than 20 different manufacturers thanks to our open-source community of contributors from all around the world.**
+```
+LineageOS extends the functionality and lifespan of mobile devices from more than 20 different manufacturers thanks to our open-source community of contributors from all around the world.
+```
 
-***All the source code for LineageOS is available in the LineageOS [Github repo](https://github.com/LineageOS). And if you would like to contribute to LineageOS, please visit out [Gerrit Code Review](http://review.lineageos.org/).***
+**All the source code for LineageOS is available in the LineageOS [Github repo](https://github.com/LineageOS). And if you would like to contribute to LineageOS, please visit out [Gerrit Code Review](http://review.lineageos.org/).**
 
 ## Installation
 **Detailed installation instructions:**

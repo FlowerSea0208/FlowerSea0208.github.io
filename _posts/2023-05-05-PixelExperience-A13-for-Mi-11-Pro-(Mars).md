@@ -8,5 +8,9 @@ updated: 2022-05-05 09:32
 ## Pixel Experience
 **PixelExperience is an AOSP based ROM, with Google apps included and all Pixel goodies (launcher, wallpapers, icons, fonts, bootanimation). Our mission is to offer the maximum possible stability and security, along with essential and useful features for the proper functioning of the device.**
 
-## Downloads
- * [mars](https://get.pixelexperience.org/mars)
+## Download link
+ * [LineageOS Downloads](https://get.pixelexperience.org/mars)
+
+## Installation
+**Detailed installation instructions:**
+ * [Install PixelExperience on mars](https://wiki.pixelexperience.org/devices/mars/install/)
