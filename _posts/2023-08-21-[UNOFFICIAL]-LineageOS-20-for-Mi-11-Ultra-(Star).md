@@ -41,7 +41,7 @@ LineageOS extends the functionality and lifespan of mobile devices from more tha
 
 ## Installation
 **Detailed installation instructions:**
- * [Install LineageOS on mars](https://wiki.lineageos.org/devices/mars/install)
+ * [Install LineageOS on star](https://wiki.lineageos.org/devices/mars/install)
 
 ## Download link
  * [GitHub Downloads](https://github.com/FlowerSea0208/flower-ota/releases/tag/star-20-230821)
