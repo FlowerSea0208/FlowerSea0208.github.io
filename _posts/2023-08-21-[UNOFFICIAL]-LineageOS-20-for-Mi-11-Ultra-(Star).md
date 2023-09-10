@@ -1,5 +1,5 @@
 ---
-title: LineageOS 20 for Mi 11 Ultra (Star)
+title: Unofficial LineageOS 20 for Mi 11 Ultra (Star)
 updated: 2022-10-29 23:43
 ---
 
