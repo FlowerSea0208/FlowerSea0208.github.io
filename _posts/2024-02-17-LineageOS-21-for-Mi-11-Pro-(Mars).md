@@ -35,6 +35,7 @@ updated: 2023-02-17 06:10
 
 等待recovery模式中出现yes/no的选项，如果你需要gapps请在选择yes重启recovery后使用adb刷入gapps，否则no
 
+## 其余内容
 内核源代码及设备树开源地址[在这里](https://github.com/xiaomi-mars-devs)
 
 构建时间：2024年3月2日
