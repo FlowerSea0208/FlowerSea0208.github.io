@@ -51,6 +51,6 @@ Selinux：enforce
 
 * 向我捐赠 [PayPal](https://paypal.me/FlowerSea0208) [微信](https://s2.loli.net/2022/10/15/wHpjyhP2b4LR3IG.png) [支付宝](https://s2.loli.net/2022/10/15/DSlCcnpJbQHR8Tw.jpg)
 
-* 通过PayPal向@ArianK16a捐赠Donate via PayPal to ArianK16a
+* [通过PayPal向@ArianK16a捐赠](https://www.paypal.me/ArianK16a)
 
-* 通过PayPal向lineageOS组织捐赠https://www.paypal.me/LineageOS
+* [通过PayPal向lineageOS组织捐赠](https://www.paypal.me/LineageOS)
